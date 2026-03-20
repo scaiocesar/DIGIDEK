@@ -6,19 +6,22 @@ All notable changes to the DigiDeck app are documented below.
 
 ### Feedback Implementation (from Sprint 1)
 
+- Implemented a Join Session feature to let nearby players easily join and play together
 - Implemented a Collection Board feature to track played games and display user profiles
-- Implemented House Rules customization, including joker configuration and rule editing
+- Updated House Rules customization, including joker configuration and rule editing
+- Updated Game Market to let player to discover games from around the world
+    
 
 ### Added
-
 - House Rules screen
-- Marketplace screen
 - Collection Board screen
 
 ### Updated
 
 - Standardized button styles and spacing
 - Clear separation between features (Play, Marketplace, Settings, Personalization)
+- Updated House Rules customization, including joker configuration and rule editing
+- Updated Marketplace screen
 
 ### Fixed
 
